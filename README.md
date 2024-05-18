@@ -10,6 +10,6 @@ ros2 launch launch turtlesim_catch_them_all.launch.py
 ```
 ### Vídeo do Projeto 
 Aqui pode conferir o resultado do projeto, que terá após rodar o arquivo de inicialização:
-https://user-images.githubusercontent.com/109568536/ec01e862-c709-4dd6-afa4-199608910f7e
+https://github.com/HEITORNERY/Turtle_Killer_Project/assets/109568536/f6a35887-17d5-4f77-b330-17cac6a02e89
 
 
