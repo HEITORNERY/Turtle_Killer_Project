@@ -1,2 +1,10 @@
-# Turtle_Killer_Project
-Este é um projeto para treinar as habilidades com ROS , por meio da criação de mesnagens personalizadas e serviços, permitindo o desenvolvimento de um projeto completo com o turtlesim.
+# Readme
+Após clonar o repositório ou baixar o .zip do projeto, basta executar o arquivo de configuração para construir todos os pacotes, com o comando abaixo:
+```bash
+. setup.sh
+```
+### Inicializando o Projeto
+Execute o launch para iniciar executar os nós de controle da tartaruga assasina, iniciar o nó do turtlesim e spawnar novas tartarugas.
+```bash
+ros2 launch launch turtlesim_catch_them_all.launch.py
+```
